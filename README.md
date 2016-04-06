@@ -1,2 +1,2 @@
-# tc_demo
-TeamCity Demo
+# TeamCity Maven Demo Project
+
